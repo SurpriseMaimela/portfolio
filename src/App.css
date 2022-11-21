@@ -1,0 +1,46 @@
+.App {
+  text-align: left;
+  background-color: rgb(255, 255, 255);
+}
+.nameContainer{
+  height: 500px;
+  width: auto;
+  background-color:black;
+  
+}
+.name{
+  color: white;
+  text-align: center;
+  padding-top: 60px;
+  font-size: 90PX;
+  font-weight: bold;
+}
+img{
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+p{
+  font-weight: bold;
+  font-size: 17px;
+}
+.Ptitle{
+  font-weight: 25px;
+  text-decoration: underline;
+}
+.Skillcontainer{
+
+  border: 2px 2px 2px 2px;
+  border-color: red;
+  margin-left: 500px;
+  margin-right: 300px;
+  
+}
+.contactTitle{
+  font-weight: bold;
+  text-align: center;
+}
+.contacts{
+  color: white;
+  margin-left: 50px;
+}
